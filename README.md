@@ -10,4 +10,5 @@
 ### 5. masuk ke dalam direktori projek (pastikan sudah mengunduh filenya dan lokasi menyimpan direktorinya)
 ### 6. sudah masuk direktori projek ketik pada terminal
 `streamlit run dashboard.py`
-`https://drive.google.com/drive/folders/1XhnERtXEIakk1afXcqqt4J8fPMDy4Ybs`
+## Video
+https://drive.google.com/drive/folders/1XhnERtXEIakk1afXcqqt4J8fPMDy4Ybs
